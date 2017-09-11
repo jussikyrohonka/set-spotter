@@ -1,2 +1,2 @@
-# set-spotter
+# spotaset
 Spotting Sets from images
